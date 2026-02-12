@@ -50,8 +50,8 @@ s.close()
 ```
 ## OUTPUT
 client
-![alt text](pic2.png)
+![alt text](pic2-2.png)
 server
-![alt text](pic1.png)
+![alt text](pic1-1.png)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
